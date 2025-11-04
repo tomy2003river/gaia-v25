@@ -51,7 +51,7 @@ class IntentRouter:
         self.add_rule(
             priority=70,
             name="APOLO",
-            pattern=r"\b(qué\s+sabes\s+de|saber\s+de|cuéntame\s+sobre|háblame\s+de|información\s+sobre|apolo|quién\s+es|qué\s+es)\b",
+            pattern=r"\b(qué\s+sabes\s+de|saber\s+de|cuéntame\s+sobre|háblame\s+de|información\s+sobre|apolo|quién\s+es|quién\s+fue|qué\s+es)\b",
             description="Knowledge and information queries"
         )
         
