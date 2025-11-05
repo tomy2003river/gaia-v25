@@ -557,7 +557,7 @@ def test_greeting(self):
 
 ## 🤝 Contribuir
 
-¡Contribuciones bienvenidas! Por favor:
+¡Cualquier contribucionn es bienvenida! Por favor:
 
 1. Fork el repositorio
 2. Crea una rama (`git checkout -b feature/mejora`)
